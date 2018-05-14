@@ -8,7 +8,6 @@
             "email": "jtirado@tecnocampus.cat"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload":{
         "Tecnocampus\\":"src/"
