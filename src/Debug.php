@@ -1,5 +1,5 @@
 <?php
-namespace Tecnocampus\Debug;
+namespace Tecnocampus;
 
 class Debug {
 	public static function s($array, $finish = false) {
