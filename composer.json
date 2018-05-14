@@ -1,0 +1,16 @@
+{
+    "name": "tecnocampus/debug-component",
+    "description": "Debug code",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jesús.T",
+            "email": "jtirado@tecnocampus.cat"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "Tecnocampus\\":"src/"
+    }
+}
