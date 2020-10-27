@@ -10,6 +10,8 @@
     ],
     "require": {},
     "autoload":{
-        "Jetiradoro\\":"src/"
+        "psr-4": {
+            "Jetiradoro\\":"src/"
+        }        
     }
 }
