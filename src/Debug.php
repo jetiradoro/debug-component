@@ -11,6 +11,6 @@ class Debug {
 		}
 	}
 	public static function x($array) {
-		self:s($array, true);
+		self::s($array, true);
 	}
 }
