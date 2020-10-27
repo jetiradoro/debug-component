@@ -1,15 +1,15 @@
 {
-    "name": "tecnocampus/debug-component",
+    "name": "jetiradoro/debug-component",
     "description": "Debug code",
     "license": "MIT",
     "authors": [
         {
             "name": "Jesús.T",
-            "email": "jtirado@tecnocampus.cat"
+            "email": "jesus@jetiradoro.com"
         }
     ],
     "require": {},
     "autoload":{
-        "Tecnocampus\\":"src/"
+        "Jetiradoro\\":"src/"
     }
 }

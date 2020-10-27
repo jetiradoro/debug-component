@@ -1,5 +1,5 @@
 <?php
-namespace Tecnocampus;
+namespace Jetiradoro;
 
 class Debug {
 	public static function s($array, $finish = false) {
